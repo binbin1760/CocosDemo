@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "acc3f167-01ec-4cd7-b048-3b238a71dec7",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "acc3f167-01ec-4cd7-b048-3b238a71dec7@6c48a",
+      "displayName": "Mossy - Hanging Plants",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "acc3f167-01ec-4cd7-b048-3b238a71dec7",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "acc3f167-01ec-4cd7-b048-3b238a71dec7@f9941",
+      "displayName": "Mossy - Hanging Plants",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 12.5,
+        "offsetY": -9.5,
+        "trimX": 89,
+        "trimY": 104,
+        "width": 1895,
+        "height": 2759,
+        "rawWidth": 2048,
+        "rawHeight": 2948,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -947.5,
+            -1379.5,
+            0,
+            947.5,
+            -1379.5,
+            0,
+            -947.5,
+            1379.5,
+            0,
+            947.5,
+            1379.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            89,
+            2844,
+            1984,
+            2844,
+            89,
+            85,
+            1984,
+            85
+          ],
+          "nuv": [
+            0.04345703125,
+            0.028833107191316147,
+            0.96875,
+            0.028833107191316147,
+            0.04345703125,
+            0.9647218453188603,
+            0.96875,
+            0.9647218453188603
+          ],
+          "minPos": [
+            -947.5,
+            -1379.5,
+            0
+          ],
+          "maxPos": [
+            947.5,
+            1379.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "acc3f167-01ec-4cd7-b048-3b238a71dec7@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "acc3f167-01ec-4cd7-b048-3b238a71dec7@f9941"
+  }
+}
